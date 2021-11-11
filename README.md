@@ -1,5 +1,7 @@
 # Step Five: Prototyping Your Data Pipeline
 
+-- football-etl-python folder is the folder for python code
+
 Now that you’ve acquired, explored, and cleaned your data, it is time to prototype your data
 pipeline! This is one of the most important tasks that data engineers do in their daily work. You’ll
 prototype the pipeline first, and then deploy it to the cloud in later phases.
